@@ -67,8 +67,3 @@ The MLP achieved perfect accuracy on the test dataset, demonstrating strong gene
 
 ## 5. Conclusion
 This project successfully implemented a Multi-Layer Perceptron to classify handwritten digits, achieving notable accuracy. The training and testing accuracies reached 100%, validating the model's robustness and generalization capability.
-
-The project highlights the potential of MLPs in digit recognition while emphasizing foundational neural network concepts. Future work could explore:
-- Hyperparameter tuning to optimize learning rate and neuron count.
-- Incorporating additional hidden layers or alternative activation functions.
-- Transitioning to more complex architectures, such as CNNs, for enhanced feature extraction.
