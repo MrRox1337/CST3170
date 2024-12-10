@@ -41,6 +41,9 @@ The project utilizes two subsets of the Optical Recognition of Handwritten Digit
 ### Testing Strategy:
 The model was trained exclusively on `cw2DataSet1` and tested on `cw2DataSet2`, ensuring a clear separation between training and testing phases.
 
+### Finetuning Strategy:
+The model hyperparameters values were edited like neuron count (h), learning rate, and cycle count. 
+
 ---
 
 ## 4. Results
