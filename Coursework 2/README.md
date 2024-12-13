@@ -42,7 +42,7 @@ The project utilizes two subsets of the Optical Recognition of Handwritten Digit
 The model was trained exclusively on `cw2DataSet1` and tested on `cw2DataSet2`, ensuring a clear separation between training and testing phases.
 
 ### Finetuning Strategy:
-The model hyperparameters values were edited like neuron count (h), learning rate, and cycle count. 
+The model hyperparameters values like neuron count (h), learning rate, and cycle count were edited. 
 
 ---
 
@@ -70,3 +70,17 @@ The MLP achieved perfect accuracy on the test dataset, demonstrating strong gene
 
 ## 5. Conclusion
 This project successfully implemented a Multi-Layer Perceptron to classify handwritten digits, achieving notable accuracy. The training and testing accuracies reached 100%, validating the model's robustness and generalization capability.
+
+---
+
+## 6. Self Evaluation
+
+| **Points** | **Area**                  | **Self-Evaluation** |
+|------------|---------------------------|----------------------|
+| 10         | Self-Marking Sheet        | 10                   |
+| 10         | Running Code              | 9                    |
+| 5          | Two-Fold Test             | 5                    |
+| 15         | Quality of Code           | 12                   |
+| 20         | Report                    | 17                   |
+| 20         | Quality of Results        | 16                   |
+| 20         | Quality of Algorithm      | 16                   |
